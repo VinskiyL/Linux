@@ -1,0 +1,15 @@
+/home/ek/lb4/hello/bin/Debug/net6.0/hello
+/home/ek/lb4/hello/bin/Debug/net6.0/hello.deps.json
+/home/ek/lb4/hello/bin/Debug/net6.0/hello.runtimeconfig.json
+/home/ek/lb4/hello/bin/Debug/net6.0/hello.dll
+/home/ek/lb4/hello/bin/Debug/net6.0/ref/hello.dll
+/home/ek/lb4/hello/bin/Debug/net6.0/hello.pdb
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.csproj.AssemblyReference.cache
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.AssemblyInfoInputs.cache
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.AssemblyInfo.cs
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.csproj.CoreCompileInputs.cache
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.dll
+/home/ek/lb4/hello/obj/Debug/net6.0/ref/hello.dll
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.pdb
+/home/ek/lb4/hello/obj/Debug/net6.0/hello.genruntimeconfig.cache

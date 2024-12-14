@@ -1,0 +1,15 @@
+/home/ek/lb4/rosa/bin/Debug/net6.0/rosa
+/home/ek/lb4/rosa/bin/Debug/net6.0/rosa.deps.json
+/home/ek/lb4/rosa/bin/Debug/net6.0/rosa.runtimeconfig.json
+/home/ek/lb4/rosa/bin/Debug/net6.0/rosa.dll
+/home/ek/lb4/rosa/bin/Debug/net6.0/ref/rosa.dll
+/home/ek/lb4/rosa/bin/Debug/net6.0/rosa.pdb
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.csproj.AssemblyReference.cache
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.GeneratedMSBuildEditorConfig.editorconfig
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.AssemblyInfoInputs.cache
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.AssemblyInfo.cs
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.csproj.CoreCompileInputs.cache
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.dll
+/home/ek/lb4/rosa/obj/Debug/net6.0/ref/rosa.dll
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.pdb
+/home/ek/lb4/rosa/obj/Debug/net6.0/rosa.genruntimeconfig.cache
